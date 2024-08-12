@@ -34,9 +34,9 @@ Data Cleaning: The extracted data was cleaned to remove any inconsistencies, suc
 Data Transformation: Data was aggregated based on various dimensions like time (daily, monthly, quarterly), product categories, and regions to facilitate meaningful analysis.
 
 # Data Visualization:
-![Sale Analysis]()
+![Sale Analysis](https://github.com/prajaktakadu11/AtliQ_hardware_Sales_Insights_with_Tableau/blob/main/AtliQ%20sales%20dashboard.png?raw=true)
 
-![Profit Analysis]()
+![Profit Analysis](https://github.com/prajaktakadu11/AtliQ_hardware_Sales_Insights_with_Tableau/blob/main/Profit%20Dashboard.png?raw=true)
 
 # Project Insights:
 - Sales Trends: The data showed that Q3 consistently had the highest sales, whereas Q4 exhibited lower sales volumes.
