@@ -1,5 +1,7 @@
 # AtliQ_hardware_Sales_Insights_with_Tableau
 
+[AtliQ Sales Insights Dashboard](https://public.tableau.com/views/AtliQSalesInsightsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # Table of content
 - Introduction
 - Objective
